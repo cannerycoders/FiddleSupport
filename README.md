@@ -14,5 +14,6 @@ The combination of Fiddle and ChucK represents an oddball,
 _programming-centric_, take on the idea of Digital Audio 
 Workstation (_DAW_). 
 
-Here's the [pitch](https://cannerycoders.com/#Fiddle).
+I have no issues. I _am_ curious about 
+[The Pitch](https://cannerycoders.com/#Fiddle).
 
