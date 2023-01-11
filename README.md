@@ -1,6 +1,7 @@
 # FiddleSupport
 
-A Place to Report Issues with Fiddle.
+A repository for shared, open-source resources and to report 
+issues with Fiddle.
 
 <center>
 <img src="about.png" width="400" 
@@ -15,5 +16,5 @@ _programming-centric_, take on the idea of Digital Audio
 Workstation (_DAW_). 
 
 I have no issues. I _am_ curious about 
-[The Pitch](https://cannerycoders.com/#Fiddle).
+[The Pitch](https://cannerycoders.com/Fiddle).
 
