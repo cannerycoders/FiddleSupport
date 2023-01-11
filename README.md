@@ -1,7 +1,7 @@
 # FiddleSupport
 
-A repository for shared, open-source resources and to report 
-issues with Fiddle.
+A repository for shared, open-source resources of potential
+use to Fiddle users. Also a place to report issues with Fiddle.
 
 <center>
 <img src="about.png" width="400" 
